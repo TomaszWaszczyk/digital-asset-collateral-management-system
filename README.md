@@ -12,7 +12,9 @@ Three things shift in the architecture:
 
 - The old lending stack stays. The bank values the pledge with its own multi-exchange price, stress-tested for a sharp drop, and books the loan through systems built for ordinary collateral. No crypto treasury, no new asset class on the books. The design is meant to fit the Banking Act without a regulatory sandbox.
 
-The loan was corporate-only, Bitcoin-only, and limited to operating funds. Size, rate, and loan-to-value were not disclosed.
+The loan was corporate-only, Bitcoin-only, and limited to operating funds. Size, rate, and loan-to-value were not disclosed. Once central banks adopt distributed ledger technology (DLT) directly, that value flow could run automatically (in the roadmap):
+
+> Here I will suggest that central banks should embrace DLT and go on-chain themselves. Bringing central bank money on-chain would not only preserve its role as the foundation of settlement – it would also enable central banks to leverage the programmability of distributed ledgers to modernise monetary policy implementation, collateral management and liquidity provision, thereby also fostering financial stability.
 
 The structural point: **Bitcoin enters bank credit as a claim enforced by a court and a custodian, not as an asset the bank holds.**
 
