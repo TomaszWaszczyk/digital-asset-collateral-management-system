@@ -1,4 +1,4 @@
-# digital-asset-collateral-management-system
+# Digital Asset Collateral Management System
 
 When a bank lends against Bitcoin without ever holding it, the credit system changes shape.
 
