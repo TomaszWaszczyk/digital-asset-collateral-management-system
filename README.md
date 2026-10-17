@@ -25,3 +25,4 @@ The structural point: **Bitcoin enters bank credit as a claim enforced by a cour
 0. https://finance.yahoo.com/markets/crypto/articles/south-korea-jeonbuk-bank-lends-093803894.html
 1. https://finance.yahoo.com/economy/articles/south-korea-faces-1997-style-020000176.html
 2. https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260828~fe9afc86e8.en.html
+3. https://notatki-historyczne-tomka.netlify.app/october-12/
