@@ -2,7 +2,7 @@
 
 When a bank lends against Bitcoin without ever holding it, the credit system changes shape.
 
-Jeonbuk Bank, a regional lender in South Korea, has made a corporate loan in won secured by Bitcoin. The coins stay with a licensed third-party custodian. The bank has neither ownership nor direct control, including if the borrower defaults. Unchained, via Yahoo Finance (12 Oct 2026).
+> Jeonbuk Bank, a regional lender in South Korea, has made a corporate loan in won secured by Bitcoin. The coins stay with a licensed third-party custodian. The bank has neither ownership nor direct control, including if the borrower defaults. Unchained, via Yahoo Finance (12 Oct 2026).
 
 Three things shift in the architecture:
 
