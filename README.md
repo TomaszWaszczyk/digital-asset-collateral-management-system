@@ -14,7 +14,7 @@ Three things shift in the architecture:
 
 The loan was corporate-only, Bitcoin-only, and limited to operating funds. Size, rate, and loan-to-value were not disclosed.
 
-The structural point: Bitcoin enters bank credit as a claim enforced by a court and a custodian, not as an asset the bank holds.
+The structural point: **Bitcoin enters bank credit as a claim enforced by a court and a custodian, not as an asset the bank holds.**
 
 ## Sources
 
