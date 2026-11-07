@@ -18,7 +18,7 @@ The loan was corporate-only, Bitcoin-only, and limited to operating funds. Size,
 
 > Here I will suggest that central banks should embrace DLT and go on-chain themselves. Bringing central bank money on-chain would not only preserve its role as the foundation of settlement – it would also enable central banks to leverage the programmability of distributed ledgers to modernise monetary policy implementation, collateral management and liquidity provision, thereby also fostering financial stability.
 
-The structural point: **Bitcoin enters bank credit as a claim enforced by a court and a custodian, not as an asset the bank holds.**
+The structural point: **Bitcoin enters bank credit as a claim enforced by a court and a custodian, not as an asset the bank holds.** Not when but how - central bank should go on-chain.
 
 ## Sources
 
